@@ -1,2 +1,3 @@
-# virus-v2
-https://gitlab.com/Syntab/virus i made a new version of this on github because why not
+# virus
+
+it's a virus, but version 2.
