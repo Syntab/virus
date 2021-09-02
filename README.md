@@ -1,3 +1,3 @@
 # virus
 
-it's a virus, but version 2.
+it's a virus
