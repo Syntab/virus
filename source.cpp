@@ -1,2 +1,2 @@
 #include<bits/stdc++.h>
-int main(){while (true){int *a=new int;delete a;}}
+int main(){while (true){int *a=new int;}}
